@@ -1,0 +1,178 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+body {
+  font-family: "Raleway";
+  font-weight: 500;
+  font-size: 0.9rem;
+  background: #f9f9f9;
+}
+
+nav {
+  background: #f9f9f9;
+}
+
+main {
+  padding-top: 8rem;
+}
+
+#header h1 {
+  font-family: "Italiana";
+  font-size: 2.5rem;
+}
+
+#header {
+  margin-top: 4vh;
+}
+
+#header p {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+}
+
+.about h1, .sale h1, .product h1, .contact h1 {
+  font-family: "Italiana";
+  text-transform: uppercase;
+  letter-spacing: 1rem;
+}
+
+
+
+/* // `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media (min-width: 575.98px) {
+  #header {
+    height: 60vh;
+  }
+  
+  #header button {
+    /* background: #e7bcde; */
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+  
+  #header h1 {
+    font-size: 3.3rem;
+  }
+  
+  #header p {
+    font-size: 1.12rem;
+    line-height: 2rem;
+  }
+  
+  .carousel-inner {
+    border-radius: 0.4rem;
+  }
+}
+
+/* // `md` applies to small devices (landscape phones, less than 768px) */
+@media (min-width: 767.98px) {
+  #header {
+    height: 70vh;
+    width: 90%;
+  }
+
+  #header button {
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  #header h1 {
+    font-size: 3.3rem;
+  }
+
+  #header p {
+    font-size: 1.12rem;
+    line-height: 2rem;
+  }
+}
+
+/* // `lg` applies to medium devices (tablets, less than 992px) */
+@media (min-width: 991.98px) {
+  #header {
+    height: 70vh;
+    width: 100%;
+  }
+
+  #header button {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  #header h1 {
+    font-size: 5rem;
+    line-height: 5rem;
+  }
+
+  #header p {
+    font-size: 1.3rem;
+    line-height: 2rem;
+  }
+}
+
+/* // `xl` applies to large devices (desktops, less than 1200px) */
+@media (min-width: 1199.98px) {
+  #header {
+    height: 60vh;
+    width: 80%;
+  }
+
+  #header button {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  #header h1 {
+    font-size: 5rem;
+    line-height: 5rem;
+  }
+
+  #header p {
+    font-size: 1.3rem;
+    line-height: 2rem;
+  }
+}
+
+/* // `xxl` applies to x-large devices (large desktops, less than 1400px) */
+@media (min-width: 1399.98px) {
+}
+
+.bg-color {
+    background-color: #CED4DA;
+    width: 100vh;
+}
+
+#btn-home {
+  width: 10rem;
+  height: 3rem;
+  margin-top: 3rem;
+}
+
+#btn-home1, #btnj {
+  cursor: default;
+}
+
+#h1-about {
+  letter-spacing: 0.5rem;
+}
+
+#brand {
+  letter-spacing: 0.5rem;
+}
+
+#button-home:hover {
+  background-color: #000000;
+}
+
+.btn-home {
+  width: 10rem;
+}
+
+#aboutus p {
+  font-size: 0.9rem;
+}
