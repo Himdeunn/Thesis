@@ -1,41 +1,29 @@
+<h1 align="center">⌜ The Peace Travel | Web Design ⌟</h1>
+<p align="center">
+    The Peace Travel, the cutting-edge frontend codebase for a premium and eco-conscious travel experience. Embark on a journey where advanced luxury seamlessly integrates with sustainable innovation.
+</p>
 
-# The Peace Travel 🚀
+---
 
-Welcome to **The Peace Travel** repository, the frontend code for an exquisite and eco-friendly travel experience. Embark on a journey where luxury meets sustainability.
+<h1 align="left">❐ The Demo</h1>
+Check out the live demo of the website: https://himdeunn.github.io/Thesis/
 
-## ✨ Table of Contents
+<h1 align="left">❐ The Result</h1>
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1270391749973643275/image.png?ex=66b38803&is=66b23683&hm=afc309898ef52f87544e6b99e3636a1e9ec604a90d61438eb58564a3fa83645e&" alt="Futuristic Banner" width="100%" />
+</div>
 
-- [🌍 Demo](#-demo)
-- [🌟 Installation](#-installation)
-- [💻 Usage](#-usage)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-
-## 🌍 Demo
-
-Check out the live demo of the website: [The Peace Travel](https://himdeunn.github.io/Thesis/)
-
-## 🌟 Installation
+<h1 align="left">❐ The Installation</h1>
 
 Get started with the project by following these steps:
 
 ```bash
-git clone https://github.com/yourusername/the-peace-travel.git
-cd the-peace-travel
-npm install
+➥ git clone https://github.com/Himdeunn/Thesis.git
+➥ cd the-peace-travel
+➥ code . (if you use terminal)
 ```
 
-## 💻 Usage
-
-Run the project locally with the following command:
-
-```bash
-npm start
-```
-
-This command will start the development server and open the project in your default web browser.
-
-## 🤝 Contributing
+<h1 align="left">❐ The Contributing</h1>
 
 We welcome contributions! Follow these steps to contribute:
 
@@ -45,6 +33,6 @@ We welcome contributions! Follow these steps to contribute:
 4. **Push to the branch** (`git push origin feature-branch`)
 5. **Create a pull request**
 
-## 📜 License
+<h1 align="left">❐ The License</h1>
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
