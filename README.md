@@ -5,10 +5,15 @@ Welcome to **The Peace Travel** repository, the frontend code for an exquisite a
 
 ## ✨ Table of Contents
 
+- [🌍 Demo](#-demo)
 - [🌟 Installation](#-installation)
 - [💻 Usage](#-usage)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
+
+## 🌍 Demo
+
+Check out the live demo of the website: [The Peace Travel](https://himdeunn.github.io/Thesis/)
 
 ## 🌟 Installation
 
